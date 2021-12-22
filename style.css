@@ -6613,10 +6613,10 @@ body.page-template-brands-overview {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.26);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.26);
+  -webkit-box-shadow: 6px 6px 40px 0 rgb(14 16 22 / 10%);
+  box-shadow: 6px 6px 40px 0 rgb(14 16 22 / 10%);
   margin-left: auto;
-  border-radius: 30px;
+  border-radius: 8px;
   padding-right: 10px;
   background-color: #fff;
 }
